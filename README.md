@@ -1,10 +1,10 @@
 # 💫About Me :
-- I love reading about data engineering trends.
-- Tools I frequently use: Apache Kafka, Python, MySQL.
-- I'm currently learning:
- + How to collect and analyze data using Big Data technologies 
- + Kafka internals (brokers, topics, partitions, consumer groups)
- + Real-time data streaming 
+1. I love reading about data engineering trends.
+2. Tools I frequently use: Apache Kafka, Python, MySQL.
+3. I'm currently learning:
+ - How to collect and analyze data using Big Data technologies 
+ - Kafka internals (brokers, topics, partitions, consumer groups)
+ - Real-time data streaming 
  
 
 ## 🌐Socials
