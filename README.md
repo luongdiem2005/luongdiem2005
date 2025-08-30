@@ -4,7 +4,7 @@
 3. I'm currently learning:
    - How to collect and analyze data using Big Data technologies 
    - Kafka internals (brokers, topics, partitions, consumer groups)
-   - Real-time data streaming 
+   - Real-time data streaming
  
 
 ## 🌐Socials
